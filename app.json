@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "otherparctica",
+    "owner":"cesar_lojan",
     "slug": "otherparctica",
     "version": "1.0.0",
     "orientation": "portrait",
